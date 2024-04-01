@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0F133BCB2BBAEB84009AEB08 /* Mission.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F133BCA2BBAEB84009AEB08 /* Mission.swift */; };
 		C51A2A9D2B7BEE0400C37A24 /* MoonshotApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C51A2A9C2B7BEE0400C37A24 /* MoonshotApp.swift */; };
 		C51A2A9F2B7BEE0400C37A24 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C51A2A9E2B7BEE0400C37A24 /* ContentView.swift */; };
 		C51A2AA12B7BEE0600C37A24 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C51A2AA02B7BEE0600C37A24 /* Assets.xcassets */; };
@@ -18,6 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0F133BCA2BBAEB84009AEB08 /* Mission.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Mission.swift; sourceTree = "<group>"; };
 		C51A2A992B7BEE0400C37A24 /* Moonshot.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Moonshot.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C51A2A9C2B7BEE0400C37A24 /* MoonshotApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoonshotApp.swift; sourceTree = "<group>"; };
 		C51A2A9E2B7BEE0400C37A24 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -62,6 +64,7 @@
 				C51A2A9C2B7BEE0400C37A24 /* MoonshotApp.swift */,
 				C51A2A9E2B7BEE0400C37A24 /* ContentView.swift */,
 				C5BFB0852B8282BC00C3552C /* Astronaut.swift */,
+				0F133BCA2BBAEB84009AEB08 /* Mission.swift */,
 				C5BFB0872B8283AF00C3552C /* Bundle-Decodeable.swift */,
 				C51A2AA02B7BEE0600C37A24 /* Assets.xcassets */,
 				C5BFB0812B8280AF00C3552C /* astronauts.json */,
@@ -154,6 +157,7 @@
 				C5BFB0862B8282BC00C3552C /* Astronaut.swift in Sources */,
 				C5BFB0882B8283AF00C3552C /* Bundle-Decodeable.swift in Sources */,
 				C51A2A9F2B7BEE0400C37A24 /* ContentView.swift in Sources */,
+				0F133BCB2BBAEB84009AEB08 /* Mission.swift in Sources */,
 				C51A2A9D2B7BEE0400C37A24 /* MoonshotApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
